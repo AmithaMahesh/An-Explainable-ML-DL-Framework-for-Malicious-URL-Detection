@@ -107,7 +107,7 @@ These explanations make the system **audit-ready** and **trustworthy** for real-
 
 ---
 
-## 🔍 Key Contributions
+## Key Contributions
 
 - **Adaptive feature selection** via RFECV — no more static, hand-picked feature sets
 - **Unified ML + DL comparison** on the same dataset and evaluation protocol
